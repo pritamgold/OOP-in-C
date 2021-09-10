@@ -1,0 +1,2 @@
+Operator overloading is a compile-time polymorphism in which the operator is overloaded 
+to provide the special meaning to the user-defined data type.

@@ -1,0 +1,2 @@
+When base class and derived class have member functions with exactly same name,
+same return type and same arguments. Then it is called Function Overriding.

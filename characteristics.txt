@@ -1,0 +1,16 @@
+6 characteriscs :
+
+	Class & Methods: Class is blueprint and object is instance of class. Class is user 
+	defined data type, which holds its members and methods in it. It helps in code 
+	reusability.
+
+	Encapsulation: is wrapping variables and methods in class. It helps in data hiding.
+
+	Polymorphism: means having many forms. methods works differently, depending on inputs.
+	function overloading.
+
+	Inheritance: means property of a child class to inherit characteristics of parent class.
+	
+	Abstractstion: means hiding complicated things from user.
+
+	

@@ -1,0 +1,2 @@
+Inheritance: is a mechanism in which one class can acquire property from 
+another class. 

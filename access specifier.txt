@@ -1,0 +1,6 @@
+3 access modifier:
+	private: can only be accessed in that class.
+	
+	protected: can be accessed in that class and subclasses(inheritanced classes) only.
+
+	public: can be accessed anywhere.

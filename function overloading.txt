@@ -1,0 +1,2 @@
+Function overloading is an object oriented feature where two or more
+function can have same name but different parameters.

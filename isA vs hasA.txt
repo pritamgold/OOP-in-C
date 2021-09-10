@@ -1,0 +1,13 @@
+defferences:
+
+1. isA relationship is based on inheritance
+   hasA relationship is based on objects.
+
+2. isA relationship expose all public data.
+   hasA relationship use public data of derived class.
+
+3. isA relationship is static binding. (compile time)
+   hasA relationship is dynamic binding. (runtime)
+
+4. isA relationship is used when you can inherit.
+   hasA relationship used when yocannot inhrit.
